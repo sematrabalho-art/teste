@@ -1,0 +1,6 @@
+{
+  "name": "GeoLondrina - Mapa Interativo SIGLON",
+  "description": "Visualizador geográfico interativo de Londrina com camadas da Base Cartográfica (quadras, lotes, loteamentos) e Fiscalização (abrangência fiscal) sobre o Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
